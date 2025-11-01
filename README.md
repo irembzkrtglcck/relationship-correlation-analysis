@@ -20,7 +20,7 @@ Bu proje, makine öğrenmesinde kullanılan korelasyon analizlerini ikili ilişk
 
 Projenin teorik altyapısı, bulguların yorumlanması ve psikolojik bağlam için LinkedIn blog yazısı:
 
-**LinkedIn:** [Makine Öğrenmesi Araçlarıyla Duygusal Dinamikleri Analiz Etmek](linkedin-link-buraya)
+**LinkedIn:** [Makine Öğrenmesi Araçlarıyla Duygusal Dinamikleri Analiz Etmek](https://www.linkedin.com/pulse/bir-elektrik-elektronik-m%C3%BChendisinin-psikoloji-merak%C4%B1-i%CC%87rem-7b00f/?trackingId=lrRhghL2idYDa7PmCXtYtw%3D%3D)
 
 Yazıda bulacaklarınız:
 - Korelasyon teorisi (Pearson vs Spearman)
@@ -414,7 +414,7 @@ Bu proje MIT lisansı altındadır. Detaylar için LICENSE dosyasına bakınız.
 **Yazar:** İrem Bozkurt Gülçiçek
 **LinkedIn:** [https://www.linkedin.com/in/irembozkurt7/]  
 **E-posta:** [7irembozkurt@gmail.com]  
-**Blog:** [LinkedIn Yazı Linki]
+**Blog:** [[LinkedIn Yazı Linki](https://www.linkedin.com/pulse/bir-elektrik-elektronik-m%C3%BChendisinin-psikoloji-merak%C4%B1-i%CC%87rem-7b00f/?trackingId=lrRhghL2idYDa7PmCXtYtw%3D%3D)]
 
 ---
 
